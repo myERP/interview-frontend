@@ -1,0 +1,2 @@
+serviceClass: com.oneup.addressbook.client.ContactService
+path: B42FE903735DE99688CADC951C62EBB6.gwt.rpc

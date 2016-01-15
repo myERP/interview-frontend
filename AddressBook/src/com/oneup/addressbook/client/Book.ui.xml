@@ -1,0 +1,13 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder" xmlns:g="urn:import:com.google.gwt.user.client.ui">
+  <ui:style>
+  
+  </ui:style>
+  <g:HTMLPanel>
+    <h1>Contacts</h1>
+    <div class="row">
+      <g:HTMLPanel ui:field="cardsPanel" styleName="col-xs-6"></g:HTMLPanel>
+      <g:HTMLPanel ui:field="detailPanel" styleName="col-xs-6"></g:HTMLPanel>
+    </div>
+  </g:HTMLPanel>
+</ui:UiBinder> 
