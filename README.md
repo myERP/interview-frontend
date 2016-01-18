@@ -82,9 +82,11 @@ The expected UI should be close from this screenshot :
 
 ## Exercise 4: HTML/CSS/JS
 
-Write a HTML page displaying a modal with an image, a text and a button. Clicking the button should remove it and display “Redirecting to google…” instead. After a few seconds, the page should redirect to google.com.
+Write a HTML page with a simple button. Clicking this button should open a modal with an image, a text and another button. Clicking the button inside the modal should remove this button and display “Redirecting to google…” instead. After a few seconds, the page should redirect to google.com.
 
 On mobile devices, the modal must take the full height and width.
+
+Pure HTML/CSS/JS only (no Bootstrap/jquery/etc)
 
 Directly edit the code in the `exercise4` folder.
 
