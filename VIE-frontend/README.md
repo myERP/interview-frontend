@@ -58,7 +58,7 @@ Once everything is setup, import the `exercise3/AddressBook` project in eclipse.
 
 Open the URL http://127.0.0.1:8888/AddressBook.html in a browser and you should see this :
 
- ![](https://github.com/myERP/interviews/raw/master/VIE-interview/screenshots/Screenshot-3.0.png)
+ ![](https://github.com/myERP/interviews/raw/master/VIE-frontend/screenshots/Screenshot-3.0.png)
 
 This application is a very basic address book. The contact list is static and defined in `ContactServiceImpl.java`.
 
@@ -75,7 +75,7 @@ Starting from this, your tasks are:
 
 The expected UI should be close from this screenshot :
 
- ![](https://github.com/myERP/interviews/raw/master/VIE-interview/screenshots/Screenshot-3.1.png)
+ ![](https://github.com/myERP/interviews/raw/master/VIE-frontend/screenshots/Screenshot-3.1.png)
 
 
 *Suggested effort: 60 to 90 minutes*
@@ -90,8 +90,8 @@ Pure HTML/CSS/JS only (no Bootstrap/jquery/etc)
 
 Directly edit the code in the `exercise4` folder.
 
- ![](https://github.com/myERP/interviews/raw/master/VIE-interview/screenshots/Screenshot-4.1.png)
+ ![](https://github.com/myERP/interviews/raw/master/VIE-frontend/screenshots/Screenshot-4.1.png)
 
- ![](https://github.com/myERP/interviews/raw/master/VIE-interview/screenshots/Screenshot-4.2.png)
+ ![](https://github.com/myERP/interviews/raw/master/VIE-frontend/screenshots/Screenshot-4.2.png)
 
 *Suggested effort: 30 to 60 minutes*
