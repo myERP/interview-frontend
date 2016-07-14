@@ -1,6 +1,6 @@
 # One Up - Core Developer interview 2016
 
-You have to complete this test within 3 hours from the moment you got the link to this repository.
+You have to complete this test within 2 hours from the moment you got the link to this repository.
 
 Start this interview by cloning the repository on your machine. Make sure to carefully follow the instructions for each exercises.
 
@@ -50,7 +50,7 @@ public LinkedList findOrdersForProduct(Product p, boolean debug) {
 
 Edit the `exercise3/exercise3.java` file and write in Java, a method which returns whether or not the input String is a valid email address.
 
-*Suggested effort: 10 minutes*
+*Suggested effort: 15 minutes*
 
 ## Exercise 4: Reverse a string without using String methods
 
@@ -58,18 +58,24 @@ Edit the `exercise4/exercise4.java` file and write in Java, a method which rever
 
 Example: reverse("hello world!"); => !dlrow olleh
 
-*Suggested effort: 10 minutes*
+*Suggested effort: 15 minutes*
 
 ## Exercise 5: Sort a list of employees
 
 Edit the `exercise5/exercise5.java` file and write in Java, a method which sort a list of employees. The employee must be sorted by name.
 
-*Suggested effort: 10 minutes*
+*Suggested effort: 15 minutes*
 
 ## Exercise 6: Removing duplicate elements from a List
 
-Edit the `exercise5/exercise6.java` file and write in Java, a method which removes all duplicate elements from a List.
+Edit the `exercise6/exercise6.java` file and write in Java, a method which removes all duplicate elements from a List.
 
 Example: List("a", "b", "b", "c", "d", "c", "e") => List("a", "b", "c", "d", "e")
 
-*Suggested effort: 10 minutes*
+*Suggested effort: 15 minutes*
+
+## Exercise 7: MySQL requests
+
+Edit the `exercise7/exercise7.sql` file and write queries in MySQL.
+
+*Suggested effort: 30 minutes*
