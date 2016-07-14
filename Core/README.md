@@ -65,3 +65,11 @@ Example: reverse("hello world!"); => !dlrow olleh
 Edit the `exercise5/exercise5.java` file and write in Java, a method which sort a list of employees. The employee must be sorted by name.
 
 *Suggested effort: 10 minutes*
+
+## Exercise 6: Removing duplicate elements from a List
+
+Edit the `exercise5/exercise6.java` file and write in Java, a method which removes all duplicate elements from a List.
+
+Example: List("a", "b", "b", "c", "d", "c", "e") => List("a", "b", "c", "d", "e")
+
+*Suggested effort: 10 minutes*
