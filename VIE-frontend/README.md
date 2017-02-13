@@ -1,4 +1,4 @@
-# One Up - Front-end interview 2016
+# One Up - Front-end interview 2017
 
 You have to complete this test within 3 hours from the moment you got the link to this repository.
 
