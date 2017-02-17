@@ -10,7 +10,10 @@ Happy coding!
 
 ## Exercise 1: Algorithm
 
-Edit the `exercise1/exercise1.java` file and write in Java, an algorithm that finds and returns the middle element of a linked list.
+Edit the `exercise1/exercise1.java` file and write in Java, an algorithm that finds and returns the middle element of a Linked List.
+
+You are not allowed to use the method `get(int index)` nor `size()` of the Java LinkedList API. 
+Use Linked List as the basic data struture, you have only its first Element that contains a value and a pointer to the next Element.
 
 Indicate the complexity of the algorithm you wrote using the Big O notation.
 
